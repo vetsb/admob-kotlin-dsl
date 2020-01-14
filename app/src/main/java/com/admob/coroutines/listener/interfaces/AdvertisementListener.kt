@@ -1,0 +1,3 @@
+package com.admob.coroutines.listener.interfaces
+
+interface AdvertisementListener
