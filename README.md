@@ -46,7 +46,7 @@ rewardedAd(applicationContext) {
 ```
 
 ## Documentation
-![](https://github.com/vetsb/admob-kotlin-dsl/tree/feature/readme/images/1.png)
-![](https://github.com/vetsb/admob-kotlin-dsl/tree/feature/readme/images/2.png)
-![](https://github.com/vetsb/admob-kotlin-dsl/tree/feature/readme/images/3.png)
-![](https://github.com/vetsb/admob-kotlin-dsl/tree/feature/readme/images/4.png)
+![](https://github.com/vetsb/admob-kotlin-dsl/blob/feature/readme/images/1.png)
+![](https://github.com/vetsb/admob-kotlin-dsl/blob/feature/readme/images/2.png)
+![](https://github.com/vetsb/admob-kotlin-dsl/blob/feature/readme/images/3.png)
+![](https://github.com/vetsb/admob-kotlin-dsl/blob/feature/readme/images/4.png)
