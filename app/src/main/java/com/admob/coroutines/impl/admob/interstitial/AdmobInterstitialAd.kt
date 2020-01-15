@@ -23,7 +23,7 @@ internal class AdmobInterstitialAd(
         private const val TEST_KEY = "ca-app-pub-3940256099942544/1033173712"
     }
 
-    var key: String? = null
+    override var key: String? = null
 
     private var isLoadingStarted = false
 

@@ -20,7 +20,7 @@ internal class AdmobRewardedAd : Advertisement {
 
     var activity: Activity? = null
 
-    var key: String? = null
+    override var key: String? = null
 
     companion object {
         private const val TEST_KEY = "ca-app-pub-3940256099942544/5224354917"

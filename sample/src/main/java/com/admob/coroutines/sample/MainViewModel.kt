@@ -19,7 +19,7 @@ class MainViewModel(
     fun getVisibleProgressBarLiveData() = isVisibleProgressBarLiveData as LiveData<Boolean>
 
     fun onButtonShowInterstitialClick() {
-        val interstitialAd = interstitialAd(activity) {
+        val interstitialAd = interstitialAd(activity.applicationContext) {
             addListeners {
                 onFailedToLoad {
                     isVisibleProgressBarLiveData.postValue(false)

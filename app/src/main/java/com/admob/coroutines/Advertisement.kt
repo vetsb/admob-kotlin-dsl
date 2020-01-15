@@ -4,6 +4,8 @@ import com.admob.coroutines.listener.interfaces.AdvertisementListener
 
 interface Advertisement {
 
+    var key: String?
+
     fun addListener(listener: AdvertisementListener)
 
     /**
