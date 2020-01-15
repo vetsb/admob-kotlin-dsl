@@ -1,5 +1,5 @@
 # Admob Kotlin DSL
-This library allows to show admob ad (Interstitial, Rewarded and Banner) easily. It based on Kotlin DSL features.
+This library allows to show admob ad (Interstitial, Rewarded and Banner) easily. It based on Kotlin DSL features and Coroutines.
 
 ## Sample
 ### Banner Ad View
